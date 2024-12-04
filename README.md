@@ -51,9 +51,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sks006&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sks006&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sks006&theme=radical" alt="Streak Stats" />
