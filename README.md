@@ -33,7 +33,7 @@
 ---
 <h3 align="left">Connect with Me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/shihab-kabir-codefinder/">
+  <a href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p><p align="center">
