@@ -31,21 +31,17 @@
 - **I love Business**: Exploring the intersection of tech and entrepreneurship.
 
 ---
-
 <h3 align="left">Connect with Me:</h3>
-
 <p align="center">
   <a href="https://linkedin.com/in/shihab-kabir-codefinder/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
-<p align="right">
+</p><p align="center">
   <a href="https://x.com/Shihabkabir07">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
-
-
+---
 <h3 align="left">Languages and Tools:</h3>
 
 ---
