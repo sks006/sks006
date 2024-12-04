@@ -8,8 +8,10 @@
 ---
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sks006&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> <br>
-  <img src="https://img.shields.io/badge/Favorite-Tech-%F0%9F%A4%96-blue" alt="Favorite Tech" /> <br>
+  <img src="https://komarev.com/ghpvc/?username=sks006&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />              
+  
+  <img src="https://www.blueoceanacademy.com/wp-content/uploads/2023/09/Blockchain-Applications-Analysed-through-Workshop-Sessions-1024x512.jpeg/150" alt="Favorite Tech" /> <br>        
+  
   <img src="https://img.shields.io/github/followers/sks006?label=Followers&style=social" alt="Followers" />
 </p>
 
