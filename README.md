@@ -39,13 +39,12 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
-<p align="center">
+<p align="right">
   <a href="https://x.com/Shihabkabir07">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
----
+
 
 <h3 align="left">Languages and Tools:</h3>
 
