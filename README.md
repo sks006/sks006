@@ -33,12 +33,18 @@
 ---
 
 <h3 align="left">Connect with Me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/shihab-kabir-codefinder/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Shihab Kabir" height="30" width="40" />
+
+<p align="center">
+  <a href="https://linkedin.com/in/shihab-kabir-codefinder/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://x.com/Shihabkabir07">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
 ---
 
 <h3 align="left">Languages and Tools:</h3>
