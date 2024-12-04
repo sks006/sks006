@@ -44,7 +44,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=js,html,CSS,,tailwind,react,rust,nodejs,express,MySQL,vite,ai,postman,ubuntu,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,rust,nodejs,express,mysql,vite,ai,postman,ubuntu&theme=light)](https://skillicons.dev)
+
 <h3 align="left">GitHub Stats:</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sks006&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
