@@ -1,59 +1,35 @@
-![MasterHead](https://tamerlan.dev/content/images/2021/12/block-chain-web3.gif)
 
-<h1 align="center">Hi 👋, I'm Shihab</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
+![](https://komarev.com/ghpvc/?username=sks006&color=brightgreen)
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4e/cc/38/4ecc384e1a1e0c6f2f9a2e7f1b329f98.gif" />
 
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sks006&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100)
 ---
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sks006&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />              
-       
-  
-  <img src="https://img.shields.io/github/followers/sks006?label=Followers&style=social" alt="Followers" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=sks006&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
 
 
 
----
-
-### 🌱 Currently Learning
-- **Rust**: Diving into the depths of this powerful language!
-
-### 💬 Ask Me About
-- **React**: Love to share tips and tricks about React development!
-
-### 📫 How to Reach Me
-- Email: **seamkabir07@gmail.com**
-
-### ⚡ Fun Fact
-- **I love Business**: Exploring the intersection of tech and entrepreneurship.
-
----
-<h3 align="left">Connect with Me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p><p align="center">
-  <a href="https://x.com/Shihabkabir07">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</p>
----
-<h3 align="left">Languages and Tools:</h3>
-
----
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,rust,nodejs,express,mysql,vite,ai,postman,ubuntu&theme=light)](https://skillicons.dev)
-
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sks006&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=sks006&theme=neon&hide_border=false)<br/>
 
 
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sks006&theme=radical" alt="Streak Stats" />
-</p>
+
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sks006&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Commits (GMT +6.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sks006&theme=dark&utcOffset=8)
+![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sks006&theme=dark)
+![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sks006&theme=dark) <br>
+[![](https://visitcount.itsvg.in/api?id=sks006&icon=10&color=3)](https://visitcount.itsvg.in)
+
+
+<!--Contribution In the last Year-->
+![Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sks006&theme=dark)
+
+
+
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sks006&bg_color=121212&color=f2f2f2&line=f9fbfb&point=56af0d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
