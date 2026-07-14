@@ -79,4 +79,12 @@ Architecting deterministic state machines and collateralized lending infrastruct
   </tr>
 </table>
 
+<div align="justify">
+  <!--Contribution In the last Year-->
+
+![Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sks006&theme=dark)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sks006&bg_color=121212&color=f2f2f2&line=f9fbfb&point=56af0d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
 
