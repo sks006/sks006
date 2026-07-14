@@ -20,7 +20,7 @@ Architecting deterministic state machines and collateralized lending infrastruct
 <table>
   <tr>
     <td width="50%">
-      <b><a href="https://github.com/sks006/solana-compliance-hook.git">📦 anchor-lend</a></b>
+      <b><a href="https://github.com/sks006/solana-compliance-hook.git">📦 solana-compliance-hook </a></b>
       <br>
       <i>Solana / Rust / Anchor</i>
       <br>
