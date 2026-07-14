@@ -57,29 +57,26 @@ Architecting deterministic state machines and collateralized lending infrastruct
 
 *(Warning: State reliance on shared public API limits)*
 
-<div align="center">
-  <!-- GitHub Activity Graph -->
- ![](https://komarev.com/ghpvc/?username=sks006&color=brightgreen)
+<table width="100%">
+  <tr>
+
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sks006&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Profile Summary Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sks006&theme=dark&utcOffset=8" alt="Productive Time" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sks006&theme=dark" alt="Top Language by Repo" />
+    </td>
+    <td width="50%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sks006&theme=dark" alt="Top Language by Commit" />
+    </td>
+  </tr>
+</table>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/? username=sks006&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100)
-
----
-
-![](https://github-readme-stats.vercel.app/api?username=sks006&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=sks006&theme=neon&hide_border=false)<br/>
-
-
-
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sks006&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-![Commits (GMT +6.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sks006&theme=dark&utcOffset=8)
-
-![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sks006&theme=dark)
-
-![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sks006&theme=dark) <br>
-
-[![](https://visitcount.itsvg.in/api?id=sks006&icon=10&color=3)](https://visitcount.itsvg.in)
-</div>
