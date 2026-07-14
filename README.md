@@ -13,25 +13,44 @@ Architecting deterministic state machines and collateralized lending infrastruct
 
 ---
 
+
+
 ### 🏗️ Primary Infrastructure Deployments
 
-<div align="center">
-  <a href="https://github.com/sks006/anchor-lend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sks006&repo=anchor-lend&theme=dark&hide_border=true" alt="anchor-lend" width="48%" />
-  </a>
-  <a href="https://github.com/sks006/CryptoCardBridge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sks006&repo=CryptoCardBridge&theme=dark&hide_border=true" alt="CryptoCardBridge" width="48%" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/sks006/sol-wallet-raw">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sks006&repo=sol-wallet-raw&theme=dark&hide_border=true" alt="sol-wallet-raw" width="48%" />
-  </a>
-  <a href="https://github.com/sks006/telemetry_oracle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sks006&repo=telemetry_oracle&theme=dark&hide_border=true" alt="telemetry_oracle" width="48%" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <b><a href="https://github.com/sks006/anchor-lend">📦 anchor-lend</a></b>
+      <br>
+      <i>Solana / Rust / Anchor</i>
+      <br>
+      Collateralized lending and borrowing monorepo. Engineered for strict memory efficiency and instant liquidation corridors.
+    </td>
+    <td width="50%">
+      <b><a href="https://github.com/sks006/CryptoCardBridge">💳 CryptoCardBridge</a></b>
+      <br>
+      <i>Solana / Actix-web / TypeScript</i>
+      <br>
+      Integrated lending vault and crypto payment layer. Facilitates JIT-funded debit card transactions with real-time atomic settlement.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b><a href="https://github.com/sks006/sol-wallet-raw">⚙️ sol-wallet-raw</a></b>
+      <br>
+      <i>Solana / Native Rust</i>
+      <br>
+      Bare-metal Solana wallet program. Bypasses the Anchor framework entirely to execute native instruction serialization and manual account memory boundaries.
+    </td>
+    <td width="50%">
+      <b><a href="https://github.com/sks006/telemetry_oracle">📡 telemetry_oracle</a></b>
+      <br>
+      <i>Rust CLI</i>
+      <br>
+      Rust-based local price oracle CLI. Implements defensive sanitization layers for secure off-chain to on-chain asset evaluation.
+    </td>
+  </tr>
+</table>
 
 ---
 
