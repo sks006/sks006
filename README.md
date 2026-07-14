@@ -43,12 +43,11 @@ Architecting deterministic state machines and collateralized lending infrastruct
   A high-performance, dual-implementation (Anchor reference + native zero-copy) Solana stablecoin payment rail with enterprise-grade orchestrator, idempotent APIs, webhook reliability, and future-proof on-chain state
     </td>
     <td width="50%">
-      <b><a href="[https://github.com/sks006/bdt-crossrate-oracle.git]">📡 bdt-crossrate-oracle </a></b>
+      <b><a href="https://github.com/sks006/bdt-crossrate-oracle.git">📡 BDT Crossrate Oracle </a></b>
       <br>
-      <i>Rust CLI</i>
+      <i>Rust/CI_CD/Anchor/Typescript/RPC/Solana </i>
       <br>
-      Rust-based local price oracle CLI. Implements defensive sanitization layers for secure off-chain to on-chain asset evaluation.
-    </td>
+      An enterprise-grade, high-efficiency Solana oracle program that synthesizes a real-time, fixed-point BDT/USD price feed. The architecture is explicitly decoupled into an asymmetric cross-rate engine: it matches a low-frequency, low-liquidity off-chain fiat leg updated via a zero-cost serverless crank with a high-frequency on-chain leg
   </tr>
 </table>
 
