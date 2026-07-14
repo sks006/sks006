@@ -20,14 +20,14 @@ Architecting deterministic state machines and collateralized lending infrastruct
 <table>
   <tr>
     <td width="50%">
-      <b><a href="https://github.com/sks006/anchor-lend">📦 anchor-lend</a></b>
+      <b><a href="https://github.com/sks006/solana-compliance-hook.git">📦 anchor-lend</a></b>
       <br>
       <i>Solana / Rust / Anchor</i>
       <br>
       Collateralized lending and borrowing monorepo. Engineered for strict memory efficiency and instant liquidation corridors.
     </td>
     <td width="50%">
-      <b><a href="https://github.com/sks006/CryptoCardBridge">💳 CryptoCardBridge</a></b>
+      <b><a href="https://github.com/sks006/cardBridger.git">💳 CryptoCardBridge</a></b>
       <br>
       <i>Solana / Actix-web / TypeScript</i>
       <br>
@@ -36,14 +36,14 @@ Architecting deterministic state machines and collateralized lending infrastruct
   </tr>
   <tr>
     <td width="50%">
-      <b><a href="https://github.com/sks006/sol-wallet-raw">⚙️ sol-wallet-raw</a></b>
+      <b><a href="https://github.com/sks006/stablecoin_payment_system.git">⚙️ Stablecoin Payment System</a></b>
       <br>
-      <i>Solana / Native Rust</i>
+      <i>Solana / Native Rust/webhook/anchor </i>
       <br>
-      Bare-metal Solana wallet program. Bypasses the Anchor framework entirely to execute native instruction serialization and manual account memory boundaries.
+  A high-performance, dual-implementation (Anchor reference + native zero-copy) Solana stablecoin payment rail with enterprise-grade orchestrator, idempotent APIs, webhook reliability, and future-proof on-chain state
     </td>
     <td width="50%">
-      <b><a href="https://github.com/sks006/telemetry_oracle">📡 telemetry_oracle</a></b>
+      <b><a href="[https://github.com/sks006/bdt-crossrate-oracle.git]">📡 bdt-crossrate-oracle </a></b>
       <br>
       <i>Rust CLI</i>
       <br>
